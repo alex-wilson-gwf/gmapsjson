@@ -7,7 +7,7 @@ Video of the steps is available here:
 https://youtu.be/YyuyqPVQNrs
 
 
-When inserting the JSON into request (I fluff this at around 2:20 in the video), search for these two strings and place the JSON between them: 
+When inserting the JSON into request, search for these two strings and place the JSON between them: 
 
 **start:** `rules:\":` *(keep the open square bracket immediately after this string)* 
 
