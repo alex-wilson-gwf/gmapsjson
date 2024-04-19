@@ -7,6 +7,8 @@ Video of the steps is available here:
 
 [![YyuyqPVQNrs](https://img.youtube.com/vi/YyuyqPVQNrs/0.jpg)](https://www.youtube.com/watch?v=YyuyqPVQNrs)
 
+https://www.youtube.com/watch?v=YyuyqPVQNrs
+
 
 When inserting the JSON into request, search for these two strings and place the JSON between them: 
 
