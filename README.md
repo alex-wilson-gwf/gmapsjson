@@ -4,6 +4,7 @@ https://issuetracker.google.com/issues/323011272
 In summary, the latest release of Google maps Platform removed the ability to import JSON styles. This provides an alternative, albeit pretty ugly.
 
 Video of the steps is available here:
+
 [![YyuyqPVQNrs](https://img.youtube.com/vi/YyuyqPVQNrs/0.jpg)](https://www.youtube.com/watch?v=YyuyqPVQNrs)
 
 
