@@ -17,4 +17,4 @@ In summary, the latest release of Google maps Platform removed the ability to im
 
 
 ## This repository includes modified JSON markup for the following styles:
-![](https://github.com/alex-wilson-gwf/gmapsjson/blob/main/v3/thumbnails.png)
+![](https://github.com/alex-wilson-gwf/gmapsjson/blob/main/thumbnails.png)
