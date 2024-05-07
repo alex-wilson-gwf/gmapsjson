@@ -1,0 +1,9 @@
+{\"featureType\":\"poi\",\"elementType\":\"geometry\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"administrative\",\"elementType\":\"geometry\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"transportation\",\"elementType\":\"geometry\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"transportation.road\",\"elementType\":\"geometry\",\"stylers\":[{\"visibility\":\"on\"},{\"color\":\"#000000\"}]},
+{\"featureType\":\"land\",\"elementType\":\"geometry\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"poi\",\"elementType\":\"labels\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"administrative\",\"elementType\":\"labels\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"transportation\",\"elementType\":\"labels\",\"stylers\":[{\"visibility\":\"off\"}]},
+{\"featureType\":\"land\",\"elementType\":\"labels\",\"stylers\":[{\"visibility\":\"on\"},{\"color\":\"#ffffff\"}]}
