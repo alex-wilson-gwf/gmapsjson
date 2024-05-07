@@ -7,6 +7,7 @@ In summary, the latest release of Google maps Platform removed the ability to im
 ## Video of the steps is available here:
 
 [![YyuyqPVQNrs](https://img.youtube.com/vi/YyuyqPVQNrs/0.jpg)](https://www.youtube.com/watch?v=YyuyqPVQNrs)
+
 direct link: https://youtu.be/YyuyqPVQNrs
 
 ## When inserting the JSON into request, search for these two strings and place the JSON between them: 
@@ -20,5 +21,5 @@ direct link: https://youtu.be/YyuyqPVQNrs
 ![](https://github.com/alex-wilson-gwf/gmapsjson/blob/main/thumbnails.png)
 
 
-##Advanced:
+## Advanced:
 For those that want to convert styles from snazzymaps.com to the new Google Maps Platform, I've added an Excel conversion spreadsheet, with a user guide here: https://youtu.be/dfJejEby62c
